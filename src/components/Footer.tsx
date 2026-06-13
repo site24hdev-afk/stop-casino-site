@@ -42,8 +42,7 @@ export default function Footer() {
             </h3>
             <ul className="space-y-3">
               <li><Link href="/confidentialite" className="text-sm hover:text-emerald-400 transition-colors">Politique de confidentialite</Link></li>
-              <li><Link href="/confidentialite#cgu" className="text-sm hover:text-emerald-400 transition-colors">Conditions d&apos;utilisation</Link></li>
-              <li><Link href="/confidentialite#cookies" className="text-sm hover:text-emerald-400 transition-colors">Cookies</Link></li>
+              <li><Link href="/cgu" className="text-sm hover:text-emerald-400 transition-colors">Conditions d&apos;utilisation</Link></li>
             </ul>
           </div>
 
