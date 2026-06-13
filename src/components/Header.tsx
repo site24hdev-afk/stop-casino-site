@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { href: "/fonctionnalites", label: "Fonctionnalites" },
   { href: "/faq", label: "FAQ" },
   { href: "/confidentialite", label: "Confidentialite" },
+  { href: "/cgu", label: "CGU" },
   { href: "/contact", label: "Contact" },
 ];
 
